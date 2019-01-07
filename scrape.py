@@ -29,13 +29,13 @@ and other source specific data. The input files must be formatted in a certain w
 
            # GLOBAL VARIABLES (DATABASE CONNECTIONS/SYSTEM PATHS)
 
-host =      '161.58.134.149'
-user =     'canc73'
-password = 'njsh+erg'
-database =    'canc73'
+host =      ' '
+user =     ' '
+password = ' '
+database =    ' '
 port = '3306'
-tagspath = '/home/max/Desktop/workspace/crappy_project/cancernews/tagwords.txt'
-input_data_path = '/home/max/Desktop/workspace/crappy_project/cancernews/scraper_input/'
+tagspath = '/home/max/Desktop/workspace/tagwords.txt'
+input_data_path = '/home/max/Desktop/workspace/scraper_input/'
 
 
               
